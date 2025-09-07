@@ -11,3 +11,9 @@ Initialized empty Git repository in /Manupriya-Vayalambron/skills-communicate-us
 ``` python
 print("Hello World")
 ```
+
+### adding task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
